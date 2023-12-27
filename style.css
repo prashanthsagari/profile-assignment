@@ -1,0 +1,29 @@
+.container {
+    width: 100%;
+}
+
+.img-align {
+    text-align: center;
+}
+
+#profile {
+    color: green;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+.footer-text {
+    color: red;
+    text-align: center;
+}
+
+table, th, td {
+    border: 2px solid black;
+}
+
+.about-me-desc {
+    text-align: center;
+}
